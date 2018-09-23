@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <string name="accent_color">Accent color</string>
-    <string name="accent_color_desc">The theme accent color, defaults to teal</string>
+    <string name="accent_color">uwu accent</string>
+    <string name="accent_color_desc">The theme accent color, defaults to teal, Till likes pink tho</string>
 
-    <string name="action_about">About</string>
+    <string name="action_about">Abort</string>
     <string name="action_add_to_favorites">Add to favorites</string>
     <string name="action_add_to_playing_queue">Add to playing queue</string>
     <string name="action_add_to_playlist">Add to playlist</string>
